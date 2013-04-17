@@ -1,0 +1,25 @@
+{
+  "name": "standardice-web",
+  "version": "0.0.0",
+  "description": "Web site for dice rolling",
+  "main": "server.js",
+  "dependencies": {
+    "ecstatic": "~0.4.2",
+    "standardice": "~0.0.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darelf/standardice-web.git"
+  },
+  "keywords": [
+    "rpg",
+    "dice"
+  ],
+  "author": "Darel Finkbeiner",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "3ac41a9fa7c50c69cbcdcde6fc3a78e9a78b6446"
+}
